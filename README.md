@@ -1,5 +1,8 @@
 # Lista2Fundamentos
 Segunda lista de exercícios de Algoritimos e programação (Fundamentos da programação)
+´
+## TODO:
+Exercício 9 com problemas
 
 ## Licensa
 MIT License
